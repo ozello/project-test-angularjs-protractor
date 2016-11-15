@@ -1,0 +1,14 @@
+test1:
+  url: https://angularjs.org/
+  input:
+    selector: todoList.todoText
+    value: "smoke str test1"
+  button:
+    selector: btn-primary
+test2:
+  url: https://angularjs.org/
+  input:
+    selector: todoList.todoText
+    value: "smoke str test2"
+  button:
+    selector: btn-primary

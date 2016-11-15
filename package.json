@@ -1,0 +1,37 @@
+{
+  "name": "project-test-angularjs-protractor",
+  "version": "1.0.0",
+  "description": "Tests in angularjs(and no angularjs) with protractor.",
+  "main": "config.js",
+  "scripts": {
+    "test": "protractor config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozello/project-test-angularjs-protractor.git"
+  },
+  "keywords": [
+    "automation",
+    "angularjs",
+    "protractor",
+    "tests"
+  ],
+  "author": "Alexandre Ozelo <ozello@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/ozello/project-test-angularjs-protractor/issues"
+  },
+  "homepage": "https://github.com/ozello/project-test-angularjs-protractor#readme",
+  "dependencies": {
+    "exceljs": "^0.2.36",
+    "fs": "0.0.1-security",
+    "jasmine-allure-reporter": "^1.0.1",
+    "jasmine-reporters": "^2.2.0",
+    "js-yaml": "^3.7.0",
+    "path": "^0.12.7",
+    "promise": "^7.1.1",
+    "protractor": "^4.0.11",
+    "selenium-webdriver": "^3.0.1",
+    "winston": "^2.3.0"
+  }
+}
