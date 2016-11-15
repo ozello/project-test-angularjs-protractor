@@ -1,0 +1,12 @@
+test1:
+  url: https://angularjs.org/
+  input:
+    selector: todoList.todoText
+    value: "func str test1"
+  button:
+    selector: btn-primary
+test2:
+  url: https://angularjs.org/
+  input:
+    selector: todoList.todoText
+    value: "func str test1"
